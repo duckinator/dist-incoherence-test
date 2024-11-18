@@ -1,0 +1,9 @@
+[package]
+name = "foo"
+authors = ["Ellen Marie Dash <me@duckie.co>"]
+version = "0.1.0"
+edition = "2021"
+
+repository = "https://github.com/duckinator/dist-incoherence-test"
+
+[dependencies]
